@@ -1,6 +1,10 @@
 # About me
 
-## I am just a student, tadanobutaaaaa.
+## I`m just a student, tadanobutaaaaa.
+
+## Skills I am learning
+
+![](https://skillicons.dev/icons?i=js,ts,react,py,go)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadanobutaaaaa&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadanobutaaaaa&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
