@@ -3,9 +3,7 @@
 ## I am just a student, tadanobutaaaaa.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadanobutaaaaa&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadanobutaaaaa&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadanobutaaaaa&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
