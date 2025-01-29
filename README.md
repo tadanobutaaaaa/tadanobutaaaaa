@@ -1,6 +1,6 @@
 # About me
 
-## I`m just a student, tadanobutaaaaa.
+I`m just a student, tadanobutaaaaa.
 
 ## Skills I am learning
 
